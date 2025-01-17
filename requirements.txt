@@ -1,4 +1,4 @@
-sqlite3
+pysqlite
 pandas
 streamlit
 matplotlib
